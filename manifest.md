@@ -2,9 +2,13 @@
 
 | plik | wymiary | waga |
 |---|---|---|
-| bluza-elita.webp | 936×1024 | 73 kB |
-| bluza-legend.webp | 683×1024 | 189 kB |
-| bluza-neon.webp | 936×1024 | 107 kB |
-| bluza-podstawowa.webp | 1024×1024 | 158 kB |
-| bluza-trail.webp | 683×1024 | 103 kB |
-| korona-legendy.webp | 683×1024 | 178 kB |
+| biegus-dorosly.webp | 1024×1024 | 62 kB |
+| biegus-mistrz.webp | 819×1024 | 62 kB |
+| biegus-pisklak.webp | 1024×1024 | 66 kB |
+| lis-arktyczny.webp | 683×1024 | 105 kB |
+| lis-trener.webp | 819×1024 | 58 kB |
+| panda-zenek.webp | 683×1024 | 131 kB |
+| papuga-rio.webp | 683×1024 | 127 kB |
+| pies-speed.webp | 683×1024 | 142 kB |
+| profesor-sowa.webp | 683×1024 | 180 kB |
+| smok-blysk.webp | 683×1024 | 137 kB |
