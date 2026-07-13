@@ -2,13 +2,14 @@
 
 | plik | wymiary | waga |
 |---|---|---|
-| biegus-dorosly.webp | 1024×1024 | 62 kB |
-| biegus-mistrz.webp | 819×1024 | 62 kB |
-| biegus-pisklak.webp | 1024×1024 | 66 kB |
-| lis-arktyczny.webp | 683×1024 | 105 kB |
-| lis-trener.webp | 819×1024 | 58 kB |
-| panda-zenek.webp | 683×1024 | 131 kB |
-| papuga-rio.webp | 683×1024 | 127 kB |
-| pies-speed.webp | 683×1024 | 142 kB |
-| profesor-sowa.webp | 683×1024 | 180 kB |
-| smok-blysk.webp | 683×1024 | 137 kB |
+| biegus-ultimate.webp | 936×1024 | 176 kB |
+| sowa-biala.webp | 683×1024 | 124 kB |
+| sowa-dziadek.webp | 819×1024 | 98 kB |
+| sowa-flow.webp | 683×1024 | 134 kB |
+| trener-orzel.webp | 683×1024 | 146 kB |
+| trenerka-orzel.webp | 683×1024 | 149 kB |
+| tygrys-trail.webp | 768×1024 | 110 kB |
+| wiewiorka.webp | 819×1024 | 89 kB |
+| wilk.webp | 683×1024 | 149 kB |
+| zajac-blysk.webp | 819×1024 | 89 kB |
+| zolw-maraton.webp | 819×1024 | 81 kB |
